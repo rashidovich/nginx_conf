@@ -1,1 +1,1 @@
-# nginx_conf
+Nginx + LetsEncrypt configuration for docker-compose usgae
